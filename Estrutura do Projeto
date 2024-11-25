@@ -1,0 +1,14 @@
+VehicleManagementApp/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   ├── com/
+│   │   │   │   ├── vehicleapp/
+│   │   │   │   │   ├── Main.java
+│   │   │   │   │   ├── Vehicle.java
+│   │   │   │   │   ├── VehicleManager.java
+│   │   resources/
+│   │       ├── vehicles.txt
+├── README.md
+├── .gitignore
+├── pom.xml (opcional para Maven)
